@@ -1,0 +1,19 @@
+ <mj-wrapper  css-class="content"  padding="0 60px" >
+ <mj-section align="center" padding="0" >
+    <mj-column padding-top="40px"padding-bottom="45px" css-class="inner-content
+"  background-color="#090b13">
+     <mj-text  font-family="Helvetica" color="white">
+          <h1 align="center">TIME IS RUNNING OUT</h1>
+
+          <p align="center">Friendly reminder! There are just a few days left to lock in this special price. Sign up by ‌September 19 to get your first month of Disney+ for only $1.99. Terms apply.*</p>
+        
+         
+     </mj-text>
+      <mj-button css-class="content-btn"  font-family="Helvetica" 
+       
+    background-color="#0072d2"  color="white" >
+              Don't click me! 
+         </mj-button>
+  </mj-column>
+ </mj-section>
+</mj-wrapper>

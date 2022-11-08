@@ -1,0 +1,78 @@
+<mj-wrapper css-class="footer" padding="0 60px">
+      <mj-section  background-color=" #090b13" padding="0" color="white">;
+
+    <mj-column>
+     <mj-text font-family="Helvetica" color="white">
+                    <h1 align="center">Follow us</h1>
+                
+        </mj-text>
+          </mj-column>
+
+    </mj-section>
+
+ <mj-section background-color="#090b13;" css-class="social"  padding="0">
+ 
+  <mj-column margin-right="30px" >
+
+
+     <mj-image  width="40px" src="../img/twitter.png" />
+
+
+
+   </mj-column>
+
+    <mj-column>
+
+
+     <mj-image width="40px" src="../img/fblogo.png" />
+
+
+
+   </mj-column>
+       
+        
+         <mj-column>
+
+
+     <mj-image width="40px" src="../img/ig.png" />
+
+
+
+   </mj-column>
+       
+       <mj-section background-color="#090b13">
+            <mj-column>
+              <mj-text align="center" color="white">For more information, please visit our Help Center</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section padding="0">
+
+             <mj-column>
+                 <mj-image src="../img/brands.png"/>
+            </mj-column>
+         </mj-section>
+
+    </mj-section>
+     <mj-section  background-color="#090b13" padding-left="20px">
+    <mj-column>
+     <mj-text font-family="Helvetica" color="white">
+          <h1>TIME IS RUNNING OUT</h1>
+
+          <p>*Offer valid until 1‌1‌:‌5‌9 PM PT on 9‌/‌1‌9‌/‌2‌2 . Valid only for new Disney+ subscribers and returning Disney+ subscribers with no current active entitlement, who are 18 years of age or older. Upon redeeming this offer, you will be enrolled in an auto-renewing monthly subscription of Disney+ and you will be charged the then-current retail price (currently $7.99/mo. (plus tax, where applicable)) on a monthly basis beginning at the end of your 1-month promotional offer unless you cancel your subscription before then. Cancel anytime, effective at the end of your billing period. No refunds or credits for partial months. To accept this offer, create a Disney+ account, accept the Disney+ Subscriber Agreement, and select the monthly offer. Valid payment method required to redeem offer. Cannot be combined with any other offers, coupons, discounts or promotions. Not redeemable for cash or any other goods or services. Eligibility rules and offer timing may vary if you sign up through a third party billing partner.
+</p>
+     <p>This email was sent to: samarabrooks18@gmail.com. Please do not reply to this email as this address is not monitored. This email contains an advertisement from: Disney Streaming Services, LLC, 1211 Avenue of Americas, New York, NY 10036.</p>
+
+
+     <p>If you do not want to receive future marketing email messages from Disney+, please opt-out.</p>
+
+
+     <p>© 2022 Disney and its related entities. All Rights Reserved.
+</p>
+
+
+     <p>SRC: 209837_EN_US
+</p>
+     </mj-text>
+    </mj-column>
+    </mj-section>
+    </mj-wrapper>

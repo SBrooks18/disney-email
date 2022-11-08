@@ -1,0 +1,63 @@
+<mjml>
+ <mj-head>
+    <mj-style>
+    
+   *{ 
+       box-sizing: border-box;
+       padding:0;
+
+   }
+    </mj-style>
+  <mj-style inline="inline">
+
+ 
+      .footer{
+       
+      }
+      .header{
+          margin-bottom: 0px;
+      }
+
+      .offer{
+          padding-bottom: 0px;
+       
+      }
+
+      .content{
+        
+      }
+
+    .content-btn{
+ 
+    }
+
+
+      .footer{
+          
+      }
+
+
+      .section-padding{
+        padding-left:35px!important;
+        padding-top: 0  !important;
+        padding-right: 35px !important;
+        padding-bottom: 0px  !important;
+      }
+
+      .logo{
+        height:50px;
+      }
+      </mj-style>
+ </mj-head>
+  <mj-body>
+ 
+  <mj-include path="./components/header.mjml">
+ 
+
+    <mj-include path="./components/offer.mjml">
+   
+    <mj-include path="./components/content.mjml">
+
+    <mj-include path="./components/footer.mjml">
+  </mj-body>
+</mjml>

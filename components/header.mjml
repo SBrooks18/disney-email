@@ -1,0 +1,10 @@
+ 
+ <mj-wrapper padding="0">
+  <mj-section css-class="header section-padding" padding-bottom="0px">
+
+      <mj-column  padding-bottom="0">
+           <mj-image css-class="logo" padding-bottom="0" width="600px" src="../img/disney.gif"/>
+      </mj-column>
+
+</mj-section>
+   </mj-wrapper>
